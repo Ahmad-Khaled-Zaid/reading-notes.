@@ -28,8 +28,9 @@ so ask your self these two question every day
 Obstacles,Success of others are also a main factors of growth mindset
 
 
-# Table of Contents
-1. [read01](https://ahmad-khaled-zaid.github.io/reading-notes./read01)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+# Table 
+| File      | Link |
+| ----------- | ----------- |
+| read01      | [Link 1](https://ahmad-khaled-zaid.github.io/reading-notes./read01)       |
+| Paragraph   | Text        |
+
