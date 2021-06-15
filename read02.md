@@ -21,4 +21,4 @@ Git have main four features
 + Local Operations
 + Tracking Changes
 
-
+![terminal ](https://code.visualstudio.com/assets/docs/editor/integrated-terminal/integrated-terminal.png)
