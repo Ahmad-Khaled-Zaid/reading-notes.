@@ -29,8 +29,7 @@ Obstacles,Success of others are also a main factors of growth mindset
 
 
 # Table 
-| File Name      | Link |
-| ----------- | ----------- |
-| read01      | [Press here](https://ahmad-khaled-zaid.github.io/reading-notes./read01)       |
-| read02   | [Press here](https://ahmad-khaled-zaid.github.io/reading-notes./read02)         |
-
+| File | Link |
+| --- | ----------- |
+| Read01 | [Press to veiw read01](https://ahmad-khaled-zaid.github.io/reading-notes./read01) |
+| Read02 | [Press to veiw read02](https://ahmad-khaled-zaid.github.io/reading-notes./read02) |
