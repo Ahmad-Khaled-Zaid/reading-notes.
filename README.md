@@ -35,6 +35,6 @@ Obstacles,Success of others are also a main factors of growth mindset
 |.[*read01*](https://ahmad-khaled-zaid.github.io/reading-notes./read01)| Read01 |
 |.[*read02*](https://ahmad-khaled-zaid.github.io/reading-notes./read02)| Read02 |
 |.[*read03*](https://ahmad-khaled-zaid.github.io/reading-notes./read03)| Read03 |
-|.[*read04*]()||
-|.[*read05*]()||
-|.[*read06*]()||
+|.[*read04*](https://ahmad-khaled-zaid.github.io/reading-notes./read04)| Read04 |
+|.[*read05*](https://ahmad-khaled-zaid.github.io/reading-notes./read05)| Read05 |
+|.[*read06*](https://ahmad-khaled-zaid.github.io/reading-notes./read05)| Read06 |
