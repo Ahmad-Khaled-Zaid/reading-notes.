@@ -28,7 +28,7 @@ so ask your self these two question every day
 Obstacles,Success of others are also a main factors of growth mindset
 
 
-# Table 
+# Tables
 ###  Code 102 Reading Notes
 
 | Modules |  Topics  |
