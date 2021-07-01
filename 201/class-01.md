@@ -63,7 +63,7 @@ the new features, and web page
 authors were rapidly adopting
 the new markup. 
  
-##### ***DOCTYPE html ***  
+##### ***DOCTYPE html***  
 Because there have been
 several versions of HTML, each
 web page should begin with a
@@ -141,9 +141,12 @@ to indicate the role of the <div> element in the structure of the page.
 
 ![old div](div.png)
 &nbsp;
-- ***New Html5 Layout Elements***  
+-***New Html5 Layout Elements*** 
+&nbsp;
+
 ![new div](divv.png)
 &nbsp;
+
 
 -***Headers & Footers***  
 The <header> and <footer>
