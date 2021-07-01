@@ -118,7 +118,7 @@ appear to start on a new line in
 the browser window. These are
 known as block level elements.  
 ###### ***Examples of block elements are:*** :
- ***<h1>, <p>, <ul>, and <li>***  
+  - <h1>, <p>, <ul>, and <li> 
 
 ##### ***Inline Elements***
 Some elements will always
