@@ -117,14 +117,15 @@ Some elements will always
 appear to start on a new line in
 the browser window. These are
 known as block level elements.  
-###### ***Examples of block elements are:*** : ***<h1>, <p>, <ul>, and <li>***  
+###### ***Examples of block elements are:*** :
+ ***<h1>, <p>, <ul>, and <li>***  
 
 ##### ***Inline Elements***
 Some elements will always
 appear to continue on the
 same line as their neighbouring
 elements. These are known as
-inline elements.
+inline elements. 
 
 ###### ***Examples of inline elements are :<a>, <b>, <em>, and <img>***
 
