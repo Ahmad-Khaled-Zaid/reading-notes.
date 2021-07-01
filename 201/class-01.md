@@ -135,7 +135,9 @@ a page.
 For a long time, web page authors used <div> elements to group
 together related elements on the page (such as the elements that form a
 header, an article, footer or sidebar). Authors used class or id attributes
-to indicate the role of the <div> element in the structure of the page.
+to indicate the role of the <div> element in the structure of the page. 
+&nbsp;
+
 ![old div](div.png)
 &nbsp;
 - ***New Html5 Layout Elements***  
