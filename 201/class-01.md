@@ -128,11 +128,11 @@ inline elements.
 
 ###### ***Examples of inline elements are :<a>, <b>, <em>, and <img>***
 
-## **Html layout**
+## **Html layout**  
 HTML5 is introducing a new set of
 elements that help define the structure of
 a page.  
-- ***Traditional HTML Layouts***
+- ***Traditional HTML Layouts***  
 For a long time, web page authors used <div> elements to group
 together related elements on the page (such as the elements that form a
 header, an article, footer or sidebar). Authors used class or id attributes
