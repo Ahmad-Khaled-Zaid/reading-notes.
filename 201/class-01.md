@@ -71,9 +71,9 @@ DOCTYPE declaration to tell a
 browser which version of HTML
 the page is using (although
 browsers usually display the
-page even if it is not included).
+page even if it is not included).  
 
-##### ***Comments in HTML ***  
+##### ***Comments in HTML***  
 If you want to add a comment
 to your code that will not be
 visible in the user's browser, you
