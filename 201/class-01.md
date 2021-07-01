@@ -79,9 +79,10 @@ to your code that will not be
 visible in the user's browser, you
 can add the text between these
 characters:
-<!-- comment goes here -->    
-&nbsp;
-##### ***ID Attribute ***  
+   
+&nbsp;  
+
+##### ***ID Attribute***  
 Every HTML element can carry
 the id attribute. It is used to
 uniquely identify that element
@@ -117,8 +118,6 @@ Some elements will always
 appear to start on a new line in
 the browser window. These are
 known as block level elements.    
-<!-- ###### ***Examples of block elements are:*** 
-  - <h1>, <p>, <ul>, and <li>  -->
 
 ##### ***Inline Elements***  
 Some elements will always
