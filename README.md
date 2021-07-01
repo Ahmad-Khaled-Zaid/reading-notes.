@@ -18,7 +18,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |.[*read05*](https://ahmad-khaled-zaid.github.io/reading-notes./read05)| Read05 |
 |.[*read06*](https://ahmad-khaled-zaid.github.io/reading-notes./read05)| Read06 |
 |.[*read07*](https://ahmad-khaled-zaid.github.io/reading-notes./read07)| Read07 |
-|.[*read07*](https://ahmad-khaled-zaid.github.io/reading-notes./read07)| Read07 |
+
 
 
 
