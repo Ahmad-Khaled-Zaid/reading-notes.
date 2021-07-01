@@ -128,7 +128,7 @@ inline elements.
 
 ###### ***Examples of inline elements are :<a>, <b>, <em>, and <img>***
 
-## Html layout
+## **Html layout**
 HTML5 is introducing a new set of
 elements that help define the structure of
 a page.  
