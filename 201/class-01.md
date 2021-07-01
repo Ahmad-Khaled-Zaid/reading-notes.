@@ -63,7 +63,7 @@ the new features, and web page
 authors were rapidly adopting
 the new markup. 
  
-##### ***<!DOCTYPE html> ***  
+##### ***DOCTYPE html ***  
 Because there have been
 several versions of HTML, each
 web page should begin with a
