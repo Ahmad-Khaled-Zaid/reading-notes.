@@ -116,11 +116,11 @@ that point to external sites
 Some elements will always
 appear to start on a new line in
 the browser window. These are
-known as block level elements.  
-###### ***Examples of block elements are:*** :
-  - <h1>, <p>, <ul>, and <li> 
+known as block level elements.    
+<!-- ###### ***Examples of block elements are:*** 
+  - <h1>, <p>, <ul>, and <li>  -->
 
-##### ***Inline Elements***
+##### ***Inline Elements***  
 Some elements will always
 appear to continue on the
 same line as their neighbouring
