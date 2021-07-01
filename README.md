@@ -27,6 +27,10 @@ so ask your self these two question every day
 2. What went wrong, and how can I make sure it doesn’t happen again?
 Obstacles,Success of others are also a main factors of growth mindset
 
+## Code 201 
+This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes.  
+  
+
 
 # Tables
 ###  Code 102 Reading Notes
