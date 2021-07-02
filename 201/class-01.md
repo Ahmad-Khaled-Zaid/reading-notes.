@@ -126,7 +126,7 @@ same line as their neighbouring
 elements. These are known as
 inline elements. 
 
-###### ***Examples of inline elements are :<a>, <b>, <em>, and <img>***
+
 
 ## **Html layout**  
 HTML5 is introducing a new set of
