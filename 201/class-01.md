@@ -189,7 +189,7 @@ some people will simply chance across your
 website, most will visit for a specific reason.
 &nbsp;
 &nbsp;
-###  ***Question and Answer ***
+### ***Question and Answer***
 Q:what is the condition that the desginer must follow filling the website content?  
 A: the content and design should be influenced by the goals of your users.
 &nbsp;
