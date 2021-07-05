@@ -26,9 +26,9 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 
 | assginment |  Link  |
 |:-----------------: |-------------:|
-|Read01| [*class-01*]() |  
-|Read02| [*class-01*]() |  
-|Read03| [*class-01*]() |  
+|Read01| [*class-01*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-01) |  
+|Read02| [*class-01*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-02) |  
+|Read03| [*class-01*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-03) |  
 |Read04| [*class-01*]() |    
 |Read05| [*class-01*]() |  
 |Read06| [*class-01*]() |  
