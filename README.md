@@ -28,8 +28,8 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |:-----------------: |-------------:|
 |Read01| [*Introductory HTML and JavaScript*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-01) |  
 |Read02| [*HTML Text, CSS Introduction, and Basic JavaScript Instructions*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-02) |  
-|Read03| [*HTML Lists, CSS Boxes, JS Control Flow*](https://ahmad-khaled-zaid.github.io/reading-notes/201/class-03) |  
-|Read04| [*HTML Links, CSS Layout, JS Functions*]() |    
+|Read03| [*HTML Lists, CSS Boxes, JS Control Flow*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-03) |  
+|Read04| [*HTML Links, CSS Layout, JS Functions*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-04) |    
 |Read05| [*-----*]() |  
 |Read06| [*-----*]() |  
 |Read07| [*-----*]() |  
