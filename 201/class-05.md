@@ -79,9 +79,9 @@ green, and blue. To find the color you want, you can use a color picker
 ## JPEG vs PNG vs GIF — which image format to use and when?
 - ### TL;DR
 Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
-- Compression
+- Compression  
 Almost all forms of data that we see on the internet — text, image, video etc. — are compressed to reduce the size of data and ensure faster transmission. Choosing the correct format and compression is a major factor that determines image size.
-- Transparency
+- Transparency  
 In a simple form, transparency indicates something that is completely invisible. Logos and icons often need to be placed on backgrounds with variable colours. Hence it is desirable, that the background of these logos and icons is made transparent so that a single image can be used over multiple background variations.
 ![Transparency](https://miro.medium.com/max/500/1*tdmTNqureSDaVMrBicjtZg.png)
 
