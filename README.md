@@ -30,7 +30,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |Read02| [*HTML Text, CSS Introduction, and Basic JavaScript Instructions*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-02) |  
 |Read03| [*HTML Lists, CSS Boxes, JS Control Flow*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-03) |  
 |Read04| [*HTML Links, CSS Layout, JS Functions*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-04) |    
-|Read05| [*-----*]() |  
+|Read05| [*-----*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-05) |  
 |Read06| [*-----*]() |  
 |Read07| [*-----*]() |  
 |Read08| [*-----*]() |  
