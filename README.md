@@ -33,7 +33,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |Read05| [ HTML Images; CSS Color & Text](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-05) |  
 |Read06| [*Problem Domain, Objects, and the DOM*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-06) |  
 |Read07| [*Readings : Object-Oriented Programming, HTML Tables*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-07) |  
-|Read08| [*-----*]() |  
+|Read08| [*CSS Layout*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-08) |  
 |Read09| [*-----*]() |  
 |Read10| [*-----*]() |  
 |Read11| [*-----*]() |  
