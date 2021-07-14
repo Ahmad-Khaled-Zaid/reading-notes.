@@ -35,7 +35,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |Read07| [*Readings : Object-Oriented Programming, HTML Tables*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-07) |  
 |Read08| [*CSS Layout*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-08) |  
 |Read09| [*Forms and JS Events*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-09) |  
-|Read10| [*-----*]() |  
+|Read10| [*Debugging*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-10) |  
 |Read11| [*-----*]() |  
 |Read12| [*-----*]() |  
 |Read13| [*-----*]() |  
