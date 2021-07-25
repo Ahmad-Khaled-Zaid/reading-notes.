@@ -37,7 +37,7 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |Read09| [*Forms and JS Events*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-09) |  
 |Read10| [*Debugging*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-10) |  
 |Read11| [*Assorted Topics*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-11) |  
-|Read12| [*-----*]() |  
+|Read12| [*Chart.js, Canvas*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-12) |  
 |Read13| [*-----*]() |  
 |Read14| [*-----*]() |  
 |Read15| [*-----*]() |
