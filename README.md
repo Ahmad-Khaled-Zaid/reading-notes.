@@ -38,8 +38,8 @@ This file modifyed to accomodate ***Code 102*** and ***Code 201*** reading notes
 |Read10| [*Debugging*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-10) |  
 |Read11| [*Assorted Topics*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-11) |  
 |Read12| [*Chart.js, Canvas*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-12) |  
-|Read13| [* Local Storage*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-12) |  
-|Read14| [*-----*]() |  
+|Read13| [*Local Storage*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-13) |  
+|Read14| [*CSS Transforms, Transitions, and Animations*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-14) |  
 |Read15| [*-----*]() |
 
 
