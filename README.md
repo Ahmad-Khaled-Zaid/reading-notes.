@@ -47,5 +47,5 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 
 | assginment |  Link  |
 |:-----------------: |-------------:|
-|Read14b| [*What Google Learned About Teams*](https://github.com/Ahmad-Khaled-Zaid/reading-notes./main/301/class01.md) |
+|Read14b| [*What Google Learned About Teams*](https://github.com/Ahmad-Khaled-Zaid/reading-notes./blob/main/301/class01.md) |
 
