@@ -11,7 +11,8 @@ A component-level design can be represented by using some intermediary represent
 
 - Each component has its own interface that specifies required ports and provided ports; each component hides its detailed implementation.
 
-- A component should be extended without the need to make internal code or design modifications to the existing parts of the component.
+- A component should be extended without the need to make internal code or design modifications to the existing parts of the component.  
+
 ![Component-Level Design Guidelines](/301/301-pic/component.png)
 
 ## **Passing Data Through Props**
@@ -87,7 +88,8 @@ function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
 ```
-This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.
+This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.  
+
 
 ![React](/301/301-pic/reactjs.png)
 
