@@ -37,7 +37,7 @@ However, note there are a few extra steps to get it working with CodePen:
 3. Click “Change View” and then choose “Debug mode”.
 4. In the new tab that opens, the devtools should now have a React tab.
 
-## **Hello World**
+## ***Hello World***
 ```html
 ReactDOM.render(
   <h1>Hello, world!</h1>,
