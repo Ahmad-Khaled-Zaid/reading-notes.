@@ -44,6 +44,6 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 
 
 ###  Code 301 Reading Notes
-|Read01| [*Introduction to React and Components*](https://ahmad-khaled-zaid.github.io/reading-notes./201/class-01) |  
+|Read01| [*Introduction to React and Components*](https://github.com/Ahmad-Khaled-Zaid/reading-notes./blob/main/301/class01.md) |  
  
 
