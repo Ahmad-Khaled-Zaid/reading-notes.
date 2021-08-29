@@ -13,7 +13,7 @@ A component-level design can be represented by using some intermediary represent
 
 - A component should be extended without the need to make internal code or design modifications to the existing parts of the component.  
 
-![Component-Level Design Guidelines](301-pic/component.png)
+![Component-Level Design Guidelines](./301-pic/component.png)
 
 ## **Passing Data Through Props**
 In Board’s renderSquare method, change the code to pass a prop called value to the Square:
@@ -91,7 +91,7 @@ function Welcome(props) {
 This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.  
 
 
-![React](301-pic/reactjs.png)
+![React](./301-pic/reactjs.png)
 
 
 
