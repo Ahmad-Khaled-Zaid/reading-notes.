@@ -47,5 +47,5 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 
 | assginment |  Link  |
 |:-----------------: |-------------:|
-|Read11a| [* Introduction to React and Components*](https://github.com/Ahmad-Khaled-Zaid/reading-notes./blob/main/301/class01.md) |
+|Read11a| [* Introduction to React and Components*](https://github.com/Ahmad-Khaled-Zaid/reading-notes./main/301/class01.md) |
 
