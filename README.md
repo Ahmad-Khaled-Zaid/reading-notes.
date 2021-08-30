@@ -49,4 +49,5 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |:-----------------: |-------------:|
 |Read-01| [*Introduction to React and Components*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read01) |
 |Read-02| [*State and Props*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read02) |
+|Read-03| [*Passing Functions as Props*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read03) |
 
