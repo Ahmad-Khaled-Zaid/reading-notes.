@@ -51,6 +51,7 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |Read-02| [*State and Props*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read02) |
 |Read-03| [*Passing Functions as Props*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read03) |
 |Read-04| [*React and Forms*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read04) |
-|Read-04| [*Putting it all together*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read05) |
-|Read-04| [*NODE.JS*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read06) |
+|Read-05| [*Putting it all together*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read05) |
+|Read-06| [*NODE.JS*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read06) |
+|Read-07| [*NODE.JS*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read07) |
 
