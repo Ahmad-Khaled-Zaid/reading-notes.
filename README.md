@@ -55,4 +55,6 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |Read-06| [*NODE.JS*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read06) |
 |Read-07| [*API*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read07) |
 |Read-08| [*APIs Design*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read08) |
+|Read-09| [*FUNCTIONAL PROGRAMMING*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read09) |
+
 
