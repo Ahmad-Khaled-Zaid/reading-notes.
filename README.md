@@ -56,6 +56,7 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |Read-07| [*API*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read07) |
 |Read-08| [*APIs Design*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read08) |
 |Read-09| [*FUNCTIONAL PROGRAMMING*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read09) |
+|Read-10| [*In memory storage*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read10) |
 
 
 
