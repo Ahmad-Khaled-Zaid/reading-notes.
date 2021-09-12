@@ -57,7 +57,8 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |Read-08| [*APIs Design*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read08) |
 |Read-09| [*FUNCTIONAL PROGRAMMING*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read09) |
 |Read-10| [*In memory storage*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read10) |
-|Read-10| [*Mongo and Mongoose*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read11) |
+|Read-11| [*Mongo and Mongoose*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read11) |
+|Read-12| [*CRUD*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read12) |
 
 
 
