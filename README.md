@@ -60,3 +60,4 @@ This file modifyed to accomodate ***Code 102*** ,***Code 201*** ,***Code 301*** 
 |Read-11| [*Mongo and Mongoose*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read11) |
 |Read-12| [*CRUD*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read12) |
 |Read-13| [*Diversity & Inclusion in the Tech Industry*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read13) |
+|Read-14| [*Authentication*](https://ahmad-khaled-zaid.github.io/reading-notes./301/Read14) |
